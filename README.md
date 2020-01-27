@@ -1,4 +1,4 @@
-Mod 3 - Final Project - Hypothesis Testing.
+# Mod 3 - Final Project - Hypothesis Testing.
 Read Me
 
 #Project Summary:
